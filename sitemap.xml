@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+    <url>
+        <loc>https://haipeizheng6.github.io/image-collage/</loc>
+        <lastmod>2025-07-04</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <url>
+        <loc>https://haipeizheng6.github.io/image-collage/zh/article/</loc>
+        <lastmod>2025-07-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://haipeizheng6.github.io/image-collage/zh/article/article-1.html</loc>
+        <lastmod>2025-07-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://haipeizheng6.github.io/image-collage/zh/article/article-2.html</loc>
+        <lastmod>2025-07-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://haipeizheng6.github.io/image-collage/zh/article/article-3.html</loc>
+        <lastmod>2025-07-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://haipeizheng6.github.io/image-collage/zh/article/article-4.html</loc>
+        <lastmod>2025-07-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://haipeizheng6.github.io/image-collage/zh/article/article-5.html</loc>
+        <lastmod>2025-07-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://haipeizheng6.github.io/image-collage/en/</loc>
+        <lastmod>2025-07-04</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://haipeizheng6.github.io/image-collage/en/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://haipeizheng6.github.io/image-collage/en/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://haipeizheng6.github.io/image-collage/de/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://haipeizheng6.github.io/image-collage/es/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://haipeizheng6.github.io/image-collage/fr/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://haipeizheng6.github.io/image-collage/it/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://haipeizheng6.github.io/image-collage/ja/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://haipeizheng6.github.io/image-collage/ko/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://haipeizheng6.github.io/image-collage/pt/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://haipeizheng6.github.io/image-collage/ru/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://haipeizheng6.github.io/image-collage/zh/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://haipeizheng6.github.io/image-collage/tw/"/>
+    </url>
+    <url>
+        <loc>https://haipeizheng6.github.io/image-collage/en/app/</loc>
+        <lastmod>2025-07-04</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://haipeizheng6.github.io/image-collage/en/app/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://haipeizheng6.github.io/image-collage/en/app/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://haipeizheng6.github.io/image-collage/de/app/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://haipeizheng6.github.io/image-collage/es/app/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://haipeizheng6.github.io/image-collage/fr/app/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://haipeizheng6.github.io/image-collage/it/app/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://haipeizheng6.github.io/image-collage/ja/app/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://haipeizheng6.github.io/image-collage/ko/app/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://haipeizheng6.github.io/image-collage/pt/app/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://haipeizheng6.github.io/image-collage/ru/app/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://haipeizheng6.github.io/image-collage/zh/app/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://haipeizheng6.github.io/image-collage/tw/app/"/>
+    </url>
+</urlset>
